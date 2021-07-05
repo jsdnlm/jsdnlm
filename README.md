@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @jsdnlm
+- 👀 I’m interested in creative design, user experience and development of websites and mobile applications.  
+- 🌱 I’m currently learning HTML, CSS and Gitbub itself!!
+- 💞️ I’m looking to collaborate on projects related with the development of coding related to mental health algorythm and art-oriented platforms. 
+- 📫 How to reach me: josemorariera@outlook.com
